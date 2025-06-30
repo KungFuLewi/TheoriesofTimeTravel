@@ -22,11 +22,11 @@
   width: 350px;
 }
 .slide1{
-    background-image: url("images/2.jpg");
+    background-image: url("images/clocksinspace.jpg");
 }
 .slide2{
-    background: linear-gradient(454deg, #404c80, #53ff88)
+    background-image: url("Images/timespiral.jpg")
 }
 .slide3{
-    background: linear-gradient(454deg, #9574ff, #ff5353)
+    background-image: url("Images/multiveres.jpg")
 }
